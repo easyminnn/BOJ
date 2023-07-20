@@ -8,7 +8,7 @@ This is Baekjoon PS area.
 [여기서](problems/) 확인 가능합니다.
 
 ## Explanation and Comment
-[여기서](doc/README.md) 확인 가능합니다.
+[여기서](commentation/) 확인 가능합니다.
 
 ## 질문 또는 문의사항
 **Issues**에 올려주시면 됩니다.
